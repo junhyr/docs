@@ -24,9 +24,9 @@
         "description": "Returns all plants from the system that the user has access to",
         "parameters": [
           {
-            "name": "King",
+            "name": "limit",
             "in": "query",
-            "description": "The maximum number of results to return",
+            "description": "KING KING KING The maximum number of results to return",
             "schema": {
               "type": "integer",
               "format": "int32"
